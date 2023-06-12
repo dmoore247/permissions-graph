@@ -6,7 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# IDE
+.vscode/
+.env/
+
 # Distribution / packaging
+Pipfile
+Pipfile.lock
 .Python
 build/
 develop-eggs/
